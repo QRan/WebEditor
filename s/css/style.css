@@ -1,0 +1,22 @@
+p {
+    font-size: 20px;
+    margin-top: 8px;
+    margin-bottom: 3px;
+}
+
+select {
+    margin-top: 10px;
+    margin-bottom: 10px;
+}
+
+button {
+    margin-top: 15px;
+    height: 30px;
+    text-align: center;
+    margin-bottom: 20px;
+    margin-right: 20px;
+}
+
+#output {
+    font-size: 25px;
+}
